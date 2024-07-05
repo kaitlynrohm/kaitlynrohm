@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi I'm Kaitlyn Rohm 👋
+<p>I'm a student in mission ready doing the advanced full stack developer course.</p>
 
+<p>I'm always looking to learn something new and one of the things I want to learn is how to use Unity!</p>
 <!--
 **kaitlynrohm/kaitlynrohm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
