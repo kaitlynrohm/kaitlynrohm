@@ -1,8 +1,16 @@
 ## Hi I'm Kaitlyn Rohm 👋
 <p>I'm a student in mission ready doing the advanced full stack developer course. I am about to start an internship at Manana games and I'm looking forward to all the things I can learn!</p>
 
-<h4>Skills</h4>
-<p>I have done several projects with mission ready which have given me lots of unique skills. These skills include using react.js, node.js, plain javascript, html and css. I have also used mySql and mongodb. During the course of the missions I also used google gemini and the maps api.</p>
+<h4>Languages and tools</h4>
+<p>
+- Javascript
+- HTML
+- CSS
+- React.js
+- Node.js
+- Google gemini api
+- Google maps api
+</p>
 
 <h4>Contact Me</h4>
 <p>
