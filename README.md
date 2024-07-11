@@ -1,14 +1,13 @@
 ## Hi I'm Kaitlyn Rohm 👋
 <p>I'm a student in mission ready doing the advanced full stack developer course. I am about to start an internship at Manana games and I'm looking forward to all the things I can learn!</p>
 
-####Skills
+<h4>Skills</h4>
 <p>I have done several projects with mission ready which have given me lots of unique skills. These skills include using react.js, node.js, plain javascript, html and css. I have also used mySql and mongodb. During the course of the missions I also used google gemini and the maps api.</p>
 
-####Contact Me
+<h4>Contact Me</h4>
 <p>
 <a href="https://www.linkedin.com/in/kaitlyn-rohm-083612307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoey-frisart" height="30" width="40" /></a>
 </p>
-
 
 <!--
 **kaitlynrohm/kaitlynrohm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
