@@ -3,13 +3,13 @@
 
 <h4>Languages and tools</h4>
 <p>
-- Javascript
-- HTML
-- CSS
-- React.js
-- Node.js
-- Google gemini api
-- Google maps api
+- Javascript <br>
+- HTML <br>
+- CSS <br>
+- React.js <br>
+- Node.js <br>
+- Google gemini api <br>
+- Google maps api <br>
 </p>
 
 <h4>Contact Me</h4>
