@@ -1,5 +1,5 @@
 ## Hi I'm Kaitlyn Rohm 👋
-<p>I'm a student in mission ready doing the advanced full stack developer course. I am about to start an internship at Manana games and I'm looking forward to all the things I can learn!</p>
+<p>I'm a student in mission ready doing the advanced full stack developer course. I am currently doing an internship at Manana games. I have been enjoying learning new things while doing this internship. I hope to continue to learn and grow through the remaining time at this internship and into my career and a software developer.</p>
 
 <h4>Languages and tools</h4>
 <p>
@@ -10,6 +10,7 @@
 - Node.js <br>
 - Google gemini api <br>
 - Google maps api <br>
+- Unity Ui Toolkit <br>
 </p>
 
 <h4>Contact Me</h4>
