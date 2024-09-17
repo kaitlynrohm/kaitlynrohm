@@ -1,16 +1,14 @@
 ## Hi I'm Kaitlyn Rohm 👋
-<p>I'm a student in mission ready doing the advanced full stack developer course. I am currently doing an internship at Manana games. I have been enjoying learning new things while doing this internship. I hope to continue to learn and grow through the remaining time at this internship and into my career and a software developer.</p>
+<p>Dedicated junior software developer with experience in JavaScript, react, node, RESTFUL Apis, MySQL, MongoDB, google maps Api, google Gemini Api, unity and C#. Worked on several agile projects and am always willing to learn something new, whether that is a new language, framework or any other skill that might be needed to more effectively complete tasks.  </p>
 
-<h4>Languages and tools</h4>
+<h4>Skills</h4>
 <p>
-- Javascript <br>
-- HTML <br>
-- CSS <br>
-- React.js <br>
-- Node.js <br>
-- Google gemini api <br>
-- Google maps api <br>
-- Unity Ui Toolkit <br>
+  Frontend: HTML, CSS, React.js, Unity Ui Toolkit
+  Backend: Node.js, Express.js 
+  Logic: JavaScript, C#, Python 
+  Database: MongoDB, MySQL 
+  Tools & Platforms: Git, GitHub, google maps Api, google Gemini Api 
+  Non-technical: teamwork, agile methodologies, communication, dedication 
 </p>
 
 <h4>Contact Me</h4>
