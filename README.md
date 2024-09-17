@@ -3,12 +3,12 @@
 
 <h4>Skills</h4>
 <p>
-  Frontend: HTML, CSS, React.js, Unity Ui Toolkit
-  Backend: Node.js, Express.js 
-  Logic: JavaScript, C#, Python 
-  Database: MongoDB, MySQL 
-  Tools & Platforms: Git, GitHub, google maps Api, google Gemini Api 
-  Non-technical: teamwork, agile methodologies, communication, dedication 
+  Frontend: HTML, CSS, React.js, Unity Ui Toolkit <br>
+  Backend: Node.js, Express.js <br>
+  Logic: JavaScript, C#, Python <br>
+  Database: MongoDB, MySQL <br>
+  Tools & Platforms: Git, GitHub, google maps Api, google Gemini Api <br>
+  Non-technical: teamwork, agile methodologies, communication, dedication <br>
 </p>
 
 <h4>Contact Me</h4>
